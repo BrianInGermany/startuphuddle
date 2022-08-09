@@ -4,5 +4,5 @@ title: Impressum
 subtitle: "No way around it."
 ---
 
-Nikhil Antao
+Nikhil Antao  
 [nikhil@startuphuddle.de](mailto:nikhil@startuphuddle.de)
