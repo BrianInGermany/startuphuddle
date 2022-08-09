@@ -22,9 +22,7 @@ title: Startup Huddle Offenbach
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  GEN: "https://www.genglobal.org/"
+    - GEN: "https://www.genglobal.org/"
   Impressum: "impressum"
 
 ################
