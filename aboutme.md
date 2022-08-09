@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About Us
 subtitle: Why you should huddle up with us.
 ---
 
